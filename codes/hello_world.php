@@ -1,5 +1,7 @@
 <?php
-     for ($x = 0; $x < 5 ; $x++) {
-         echo($x.". Hello World\n");
-     }
+     $i = 0;
+     do {
+         echo($i.". Hello World\n");
+         $i++;
+     } while ($i < 5);
 ?>

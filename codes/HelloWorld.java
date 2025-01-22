@@ -1,7 +1,9 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        for (int i = 0; i < 5; i++) {
+        int  i = 0;
+        do {
             System.out.println(i+". Hello World");
-        }
+            i++;
+        } while (i<5);
     }
 }
