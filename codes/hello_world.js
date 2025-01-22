@@ -1,2 +1,2 @@
-let x = 'Hello World'
-console.log(x)
+let y = 'Hello World'
+console.log(y)

@@ -1,4 +1,4 @@
 <?php
- $x= "Hello World";
- echo($x);
+ $y= "Hello World";
+ echo($y);
 ?>
